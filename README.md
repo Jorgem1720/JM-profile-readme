@@ -12,8 +12,7 @@ I like to **work out, hang out with friends, play videogames, read, and watch mo
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://github.com/Jorgem1720/JM-profile-readme)
-[![LinkedIn](https://www.linkedin.com/in/jorge-melendez-520379322/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Jorgem1720/JM-profile-readme)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-melendez-520379322/)
 
 _"Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter!"_
